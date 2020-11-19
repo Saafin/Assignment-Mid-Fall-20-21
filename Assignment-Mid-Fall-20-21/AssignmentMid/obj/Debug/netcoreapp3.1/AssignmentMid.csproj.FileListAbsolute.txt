@@ -1,0 +1,39 @@
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.exe
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.deps.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.dev.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.dll
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.pdb
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csprojAssemblyReference.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfoInputs.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfo.cs
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.dll
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.pdb
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.genruntimeconfig.cache
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csprojAssemblyReference.cache
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfoInputs.cache
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfo.cs
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csproj.CoreCompileInputs.cache
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.dll
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.pdb
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.exe
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.deps.json
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.json
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.dev.json
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.dll
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.pdb
+G:\C#\mid assess c#\mid assess c#\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.genruntimeconfig.cache
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csprojAssemblyReference.cache
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfoInputs.cache
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfo.cs
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csproj.CoreCompileInputs.cache
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.dll
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.pdb
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.exe
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.deps.json
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.json
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.dev.json
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.dll
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.pdb
+G:\C#\Mid assignment\Give Away\misal\Assignment-Mid-Fall-20-21-\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.genruntimeconfig.cache
